@@ -144,3 +144,115 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.box1 {
+    background-color: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+
+}
+
+.box2 {
+    background-color: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box3 {
+    background-color: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+    
+}
+
+.box4 {
+    background-color: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box5 {
+    background-color: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box6 {
+    background-color: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box7 {
+    background-color: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box8 {
+    background-color: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box9 {
+    background-color: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
+
+.box10 {
+    background-color: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 12.5%;
+    height: 100px;
+}
